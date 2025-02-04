@@ -38,3 +38,21 @@ li:hover{
 .menu img{
     height: 16px;
 }
+
+.quadrados{
+    display: flex;
+    justify-content: end;
+    gap: 4px;
+    padding: 4px; 
+}
+
+.quadrados p{
+    font-size: 15px;
+}
+
+.quadrados img{
+    height: 350px;
+    padding: 10px;
+    display: flex;
+    gap: 10px;
+}
